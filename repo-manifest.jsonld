@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/arxiv2025-expert-eval-rw/commit/c591ebafac030d04c55f221b1c4ef16002be9191",
       "git:hexsha": "c591ebafac030d04c55f221b1c4ef16002be9191",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T12:20:18.854803+00:00"
     }
   ]
 }
