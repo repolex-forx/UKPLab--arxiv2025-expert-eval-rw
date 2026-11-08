@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "arxiv2025-expert-eval-rw",
+  "versions": [
+    {
+      "commit": "c591ebafac030d04c55f221b1c4ef16002be9191",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:20:18.855226+00:00"
+    }
+  ]
+}
